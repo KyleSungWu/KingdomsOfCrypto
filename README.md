@@ -5,3 +5,5 @@ Token
 Stake integration with swap for Marketplace. Yield further integration after deployment
 
 Stake-reflections-game-rewards
+
+DEFI EXCHANGE IN-GAME, 3D-world
